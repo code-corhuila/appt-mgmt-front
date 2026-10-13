@@ -1,6 +1,6 @@
 # appt-mgmt-front
 
-> identity-access bounded context: mobile UI (remote)
+> mgmt-front bounded context: mobile UI (remote)
 
 Part of the **LMS Library** distributed system — team `lms-library`, Grupo 2.
 Governance and documentation live in [`library-docs`](https://github.com/code-corhuila/library-docs).
