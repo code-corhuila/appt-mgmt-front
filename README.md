@@ -1,4 +1,4 @@
-# appt-mgmt-identity-access-app
+# appt-mgmt-front
 
 > identity-access bounded context: mobile UI (remote)
 
