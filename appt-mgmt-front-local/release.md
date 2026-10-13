@@ -3,7 +3,7 @@
 - **Component**: `appt-mgmt-front`
 - **Version**: `v2.0.0`
 - **Delivery**: `c2-release`
-- **Commit ID**: `128074ea37dd11c0520637bc67794f803eee7580`
+- **Commit ID**: `62ba1a48ccc81a20097d0d098758c305de2d7344`
 - **Date**: 2026-03-29
 
 ## Description
